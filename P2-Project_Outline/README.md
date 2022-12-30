@@ -9,30 +9,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 
-The goal of our website, DODO, is to allow users to try new, local experiences. The site will allow the user to create a profile, mapping their interests and location. When the user signals that they have time available to try an experience, the site will give them an itinerary to complete in the alloted timeframe. 
+Do you ever have a day off where you want to go do something but aren't sure what? Ever try to plan a day out but find the number of options leading to indecision? I find that sometimes when I try to plan fun days off or days out, the act of the planning becomes a bit tiring in itself, especially when you try to coordinate with another person's interests, and lessens the enjoyment I could be having--not to mention shortening the time we have available to go do the thing! Welcome to DODO.
+
+DODO is a Day Off/Day Out activity and event scheduler that takes the decision-making off your shoulders and onto ours. When a user signs up for DODO they merely need to build their profile out by telling DODO where they live (or want to play) and what their general interests are, and DODO can begin generating a unique itinerary of activities and places to go so they can focus on getting the most out of their day! With the basic profile complete, any time a user wants to get out and explore their community, they can generate a New Schedule based on the specifics of the day! Weather a problem? Okay, lets stay indoors. Interested in art, a light lunch and refreshments nearby, for three people on a tight budget and you only have the afternoon? Great! DODO will give you a gallery or museum to visit along with a cafe, coffeehouse, or brewery nearby that fits your interests, timeframe, budget, and group size! With us, you can let your free time go the way of the DODO!
 
 ### Features
 Include Features here
 
-Login: Allow users to login/ sign up with authentication.
-
-Search: database coducts a randomized search for activities for the user based on their interests in their profile.
-
-Weather: Pulls from the user's location - allows the user to make informed decisions on their activities.
-
-User Profile: User selects interests, location, price ranges, activity level, and time available.
-
-Tags: Different sets of tags to specify interests, time of day, price ranges, and location of events.
-
-Weekly Updates/ Specialized User Ideas: Potential feature for subscribers who want weekly, user-specific activities.
-
-Location: User input to set a location, map API Integration for use in travel time/ directions.
-
-Specialized Itinerary: Result of Search/ Tags. Incorporates the weather and location services
-
-Business Login/ Profile: 
-
-Add a DODO: User adds their own DODO candidates. The user can add tags for: interests, time of day, weather, price range, etc.
+DODOs features include unique user login profiles with interest tagging, integrated weather and location APIs, itinerary generation based on the user's specific preferences, and user submission forms for new and interesting DODO hotspots
 
 ### Technologies
 Include Technologies here
