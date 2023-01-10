@@ -16,17 +16,21 @@ DODO is a Day Off/Day Out activity and event scheduler that takes the decision-m
 ### Features
 Include Features here
 
-DODOs features include unique user login profiles with interest tagging, integrated weather and location APIs, itinerary generation based on the user's specific preferences, and user submission forms for new and interesting DODO hotspots
+User Login - A user will be able to log in and out of our website using spring security + jwt.
+Weather Api - The weather API will be integrated to inform the user of weather conditions prior to them completing their itinerary items.
+Location API - The location API will be integrated to select itinerary items within the user's location.
+Itinerary Genetation - A unique itinerary will be created based on the user's location and interests.
+User Interest Tagging System - The interest tagging system will be utilized to generate itineraries specific to each user.
 
 ### Technologies
 Include Technologies here
 
-Frontend: JavaScript, HTML, CSS
-    -Bulma framework for UI
-    -Angular framework for JavaScript/ Typescript, Angular and CSS?
+Frontend: JavaScript, HTML, SCSS
+    -Bulma library for SCSS
+    -Angular framework for JavaScript/ Typescript, HTML and SCSS
 
-Backend: Java
-    -framework: Gradle?
+Backend: Java initialized with Spring Boot
+Build automation: Gradle
 
 Database: MySQL
 
@@ -34,7 +38,7 @@ Database: MySQL
 
 Include what you will need to learn here
 
-Connecting to a weather and location API, find out if there is a site to pull businesses from based on locality, potentially learn Bulma framework if the team allows!
+Connecting to a weather and location API, find out if there is a site or API to pull businesses from based on locality, potentially learn Bulma framework if the team allows!
 
 ### Project Tracker
 
